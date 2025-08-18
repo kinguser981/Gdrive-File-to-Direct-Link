@@ -2,8 +2,8 @@
 Your google drive file to direct link (GitHub release)
 ```
 - Warning!!!
-- you can only use this tool for files with Size of less than 2048MB (2GB)
-- Maximum Size (2048MB) limited by GitHub!!!
+- Optimizing codes
+- Maximum single file Size (2048MB) limited by GitHub!!!
 ```
 
 
